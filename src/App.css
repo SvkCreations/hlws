@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+body {
+  font-family: 'Quicksand', sans-serif;
+}
+
+.img {
+  min-height: 600px;
+  background-image: url('images/main-bg.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.main-text {
+  background-color: #c3aa7d;
+}
+
+.primary-btn {
+  background-color: #818e6b;
+  border-radius: 24px;
+  border: 2px solid #818e6b;
+}
+
+.primary-btn:hover {
+  background: none;
+  border: 2px solid #818e6b;
+  transition: .5s ease;
+}
+
+.tertiary-btn {
+  background: none;
+  border: 1px solid black;
+  border-radius: 24px;
+}
+
+.why-img {
+  min-height: 500px;
+  background-image: url('images/why-bg.webp');
+  background-size: cover;
+  background-position: center;
+}
+
+.why-text {
+  background-color: #818e6b;
+}
+
+.what {
+  min-height: 1280px;
+  background-image: url('images/bg.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.do {
+  background-color: #818e6b;
+}
+
+.smita {
+  min-height: 600px;
+  background-image: url('images/smita.jpeg');
+  background-size: cover;
+  background-position: center;
+}
+
+input[type="text"] {
+  background: rgba(0, 0, 0, 0);
+  border: 1px solid #818e6b;
+  outline: none;
+}
+
+input[type="text"]:focus,
+input[type="text"]:active {
+  background: rgba(0, 0, 0, 0);
+  border: 1px solid black;
+  outline: none;
+}
+.copyright{
+  border-top: 1px solid black;
+}
+
+
+@media screen and (max-width: 820px) {
+  .what {
+    background-image: url('images/bg-sm.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+}
