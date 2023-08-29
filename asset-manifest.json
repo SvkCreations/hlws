@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hlws/static/css/main.382226b8.css",
+    "main.js": "/hlws/static/js/main.9588eeb0.js",
+    "static/js/787.663ae2ac.chunk.js": "/hlws/static/js/787.663ae2ac.chunk.js",
+    "static/media/bg-sm.jpg": "/hlws/static/media/bg-sm.97201c9e9d90073c972c.jpg",
+    "static/media/bg.jpg": "/hlws/static/media/bg.43724fa8ca8cba36912e.jpg",
+    "static/media/why-bg.webp": "/hlws/static/media/why-bg.e44fb7d95dd1d9da8056.webp",
+    "static/media/main-bg.jpg": "/hlws/static/media/main-bg.66cd682dc8409f00fbed.jpg",
+    "static/media/smita.jpeg": "/hlws/static/media/smita.79fb307ee180fbc7c2a0.jpeg",
+    "static/media/logo.png": "/hlws/static/media/logo.96ff5a0306dbdf8821b2.png",
+    "static/media/wealth.png": "/hlws/static/media/wealth.943a95b93150b885dbb9.png",
+    "static/media/harmony.png": "/hlws/static/media/harmony.39206ffee28a2192ce3f.png",
+    "static/media/corrective.png": "/hlws/static/media/corrective.1f67400accee035464cc.png",
+    "static/media/positive.png": "/hlws/static/media/positive.f29acc3d59b4c63f613b.png",
+    "index.html": "/hlws/index.html",
+    "main.382226b8.css.map": "/hlws/static/css/main.382226b8.css.map",
+    "main.9588eeb0.js.map": "/hlws/static/js/main.9588eeb0.js.map",
+    "787.663ae2ac.chunk.js.map": "/hlws/static/js/787.663ae2ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.382226b8.css",
+    "static/js/main.9588eeb0.js"
+  ]
+}
